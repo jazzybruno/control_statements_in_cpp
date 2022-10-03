@@ -1,0 +1,11 @@
+# ninja log v5
+1	1931	1664727771006503308	CMakeFiles/Palindrome.dir/exercise1.cpp.o	2a3a1845cd37eba6
+237	286	1664728263345340109	Palindrome	be6ffc6473fd090c
+0	243	1664652131687184086	CMakeFiles/Palindrome.dir/switch.cpp.o	21f12d6ed80047a9
+0	226	1664647804466706814	CMakeFiles/Palindrome.dir/ifElse.cpp.o	d6414704165109a2
+1	237	1664728263297341002	CMakeFiles/Palindrome.dir/exersice2.cpp.o	c8bb7ef3797cdd5
+0	14	1664777567367603880	build.ninja	78caa19f0eb9b962
+0	11	1664646547635886511	CMakeFiles/Palindrome.dir/main.cpp.o	ca3e9a4571be69b4
+0	222	1664647771411861591	CMakeFiles/Palindrome.dir/nestedIf.cpp.o	a4bd296761d83761
+1	220	1664655951875823258	CMakeFiles/Palindrome.dir/while.cpp.o	cd290143505ef1fc
+0	234	1664656249510574239	CMakeFiles/Palindrome.dir/nestedLoop.cpp.o	658d0633277f3f68
